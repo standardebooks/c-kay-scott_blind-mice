@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+  <file path="chapter-*.xhtml">
+    <code>s-060</code>
+    <reason>Song titles are in french and italicized as foreign words</reason>
+  </file>
+  <file path="chapter-17.xhtml">
+    <code>y-013</code>
+    <reason>Punctuation contained within song title</reason>
+  </file>
+  <file path="chapter-24.xhtml">
+    <code>y-013</code>
+    <reason>Dialog includes nested quotes, left punctuation as in scans for clarity</reason>
+  </file>
+</se-lint-ignore>
