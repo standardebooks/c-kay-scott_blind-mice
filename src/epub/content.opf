@@ -37,29 +37,26 @@
 		<meta property="term" refines="#subject-2">sh2008104850</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008103507</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
-		</meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">A woman struggles to save her friendships and her marriage when her difficult and melodramatic mother comes for an extended visit.</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description">Lucy and John Winter are a happily married couple with few but close friends. Then Lucy's estranged mother, Nannie, comes to town for an extended visit. Family misfortunes are revisited and Lucy must try to protect herself, her friendships, and her marriage from her manipulative mother. &lt;i&gt;Blind Mice&lt;/i&gt; was written by C. Kay Scott, a psuedonym for &lt;a href="https://en.wikipedia.org/wiki/Frederick_Creighton_Wellman"&gt;Frederick Creighton Wellman&lt;/a&gt; an American doctor, who lived a colorful life that earned him the monicker "The Casanova of Tropical Medicine." &lt;i&gt;Blind Mice&lt;/i&gt; was the first novel written by Wellman as C. Kay Scott, written during his time working as a bookkeeper for a shop in Brazil selling sewing machines while on the run from the parents of his eloped young wife, &lt;a href="https://en.wikipedia.org/wiki/Evelyn_Scott_(writer)"&gt;Evelyn Scott&lt;/a&gt;, whom he met while a professor of tropical medicine at Tulane University.</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/76357</dc:source>
 		<dc:source>https://archive.org/details/blindmice00compgoog</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/c-kay-scott_blind-mice</meta>
 		<dc:creator id="author">C. Kay Scott</dc:creator>
 		<meta property="file-as" refines="#author">Scott, C. Kay</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">CONTRIBUTOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:name.person.full-name" refines="#author">Cyril Kay Scott</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Frederick_Creighton_Wellman</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n88609372</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Edgar Degas</dc:contributor>
+		<meta property="file-as" refines="#artist">Degas, Edgar</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Edgar_Degas</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79022903</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Hendrik Kaiber</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Kaiber, Hendrik</meta>
