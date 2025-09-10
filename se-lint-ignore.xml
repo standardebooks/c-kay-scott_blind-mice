@@ -6,10 +6,4 @@
 			<reason>Punctuation contained within song title</reason>
 		</ignore>
 	</file>
-	<file path="chapter-24.xhtml">
-		<ignore>
-			<code>y-013</code>
-			<reason>Dialog includes nested quotes, left punctuation as in scans for clarity</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>
