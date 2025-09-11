@@ -39,10 +39,7 @@
 		<meta property="term" refines="#subject-3">sh2008103507</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A woman struggles to save her friendships and her marriage when her difficult and melodramatic mother comes for an extended visit.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;An idealistic young architect, John Winter, and his wife, Lucy, find their lives uprooted when Lucy's mother, Nannie, comes to town for an extended visit, having been thrown out of her cousin's home because of their disapproval of her relationship with the principal of the local academy. Nannie's southern upbringing and the origin of her unpleasant demeanor is explained. Lucy must try to protect herself, her friendships, and her marriage from her manipulative mother. The story handles themes of class and determination through the contrast of Lucy's and Nannie's lives.&lt;/p&gt;
-			<i>Blind Mice</i> is the first novel written by <a href="https://www.standardebooks.org/books/c-kay-scott/">C. Kay Scott</a>, a pseudonym for Frederick Creighton Wellman, better known for his work in medicine.
-		</meta>
+		<meta id="long-description" property="se:long-description" refines="#description">&lt;p&gt;An idealistic young architect, John Winter, and his wife, Lucy, find their lives uprooted when Lucy's mother, Nannie, comes to town for an extended visit, having been thrown out of her cousin's home because of their disapproval of her relationship with the principal of the local academy. Nannie's southern upbringing and the origin of her unpleasant demeanor is explained. Lucy must try to protect herself, her friendships, and her marriage from her manipulative mother. The story handles themes of class and determination through the contrast of Lucy's and Nannie's lives.&lt;/p&gt; &lt;i&gt;Blind Mice&lt;/i&gt; is the first novel written by &lt;a href="https://www.standardebooks.org/books/c-kay-scott/"&gt;C. Kay Scott&lt;/a&gt;, a pseudonym for Frederick Creighton Wellman, better known for his work in medicine.</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/76357</dc:source>
 		<dc:source>https://archive.org/details/blindmice00compgoog</dc:source>
