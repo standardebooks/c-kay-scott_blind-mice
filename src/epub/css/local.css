@@ -46,7 +46,7 @@ section[epub|type~="dedication"] > *{
 }
 
 @supports(display: flex){
-	section[epub|type~"dedication"]{
+	section[epub|type~="dedication"]{
 		align-items: center;
 		box-sizing: border-box;
 		display: flex;
