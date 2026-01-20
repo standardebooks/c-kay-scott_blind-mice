@@ -47,7 +47,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/76357</dc:source>
 		<dc:source>https://archive.org/details/blindmice00compgoog</dc:source>
-		<meta property="se:word-count">100898</meta>
+		<meta property="se:word-count">97181</meta>
 		<meta property="se:reading-ease.flesch">77.53</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/c-kay-scott_blind-mice</meta>
 		<dc:creator id="author">C. Kay Scott</dc:creator>
