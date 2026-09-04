@@ -30,9 +30,9 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Blind Mice</dc:title>
 		<meta property="file-as" refines="#title">Blind Mice</meta>
-		<dc:subject id="subject-1">Middle West -- Fiction</dc:subject>
-		<dc:subject id="subject-2">Interpersonal relations -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Families -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Middle West--Fiction</dc:subject>
+		<dc:subject id="subject-2">Interpersonal relations--Fiction</dc:subject>
+		<dc:subject id="subject-3">Families--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2008107407</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
