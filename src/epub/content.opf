@@ -67,6 +67,7 @@
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Hendrik Kaiber</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Kaiber, Hendrik</meta>
+		<meta property="schema:alternateName" refines="#transcriber-1">Hendrik de Wetterle Bonow Kaiber</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Distributed Proofreaders</meta>
